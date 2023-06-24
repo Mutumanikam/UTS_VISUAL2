@@ -3,7 +3,7 @@ object Form1: TForm1
   Top = 252
   Width = 870
   Height = 450
-  Caption = 'PRAKTIKUM DELPHI'
+  Caption = 'UTS RATNA BUDIARTI'
   Color = clOlive
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -31,7 +31,7 @@ object Form1: TForm1
     Left = 56
     Top = 32
     object ugasPraktikum1: TMenuItem
-      Caption = 'Tugas Praktikum'
+      Caption = 'Tugas UTS Visual2'
       object ProgramKalkulator1: TMenuItem
         Caption = 'Program Kalkulator'
         OnClick = ProgramKalkulator1Click
